@@ -1,9 +1,11 @@
 <!DOCTYPE html?
-  <html>
+<html>
   <head>
   <title>Rankine's Video Games</title>
   <style type="text/css">
-
+    body  {
+      font-size: 80%;
+      font-family:
   </style>
 
   </head>
@@ -12,4 +14,21 @@
     <div id="page">
       <div id="logo">
         <img src="images/logo.gif"/>
-  
+      </div>
+      <ul id="navigatoin">
+        <li><a href="#" class="on">Home</a></li>
+        <li><a href="#">Atari</a></li>
+        <li><a href="#">Nintendo</a></li>
+        <li><a href="#">PC</a></li>
+        <li><a href="#">Playstation</a></li>
+        <li><a href="#">Sega</a></li>
+        <li><a href="#">Xbox</a></li>
+      </ul>
+    <p>
+      A collection of the Rankine Family Video Games from 1980 - Present
+    </p>
+    </div>
+  </body>
+</html>
+
+
